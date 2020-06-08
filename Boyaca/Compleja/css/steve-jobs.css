@@ -43,9 +43,9 @@
   
   .sj-book h1{
 	  font-family: "Stempel-Garamond-W01-Roman";
-	  font-size: 38px;
+	  font-size: 30px;
 	  font-weight: lighter;
-	  margin: 20px 0;
+	  margin: 30px;
 	  color: #333;
 	  /* -webkit-text-fill-color: #333; */
 	  -webkit-text-stroke-color: white;
