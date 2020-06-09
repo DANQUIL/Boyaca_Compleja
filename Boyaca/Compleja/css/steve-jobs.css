@@ -443,6 +443,12 @@
 	  margin: none;
   }
   
+  #image {
+	  display: block;
+	  margin: auto;
+	  padding: auto;
+  }
+
   p.derecha{
 	  font-size: 11px;
 	  text-align: justify; 
