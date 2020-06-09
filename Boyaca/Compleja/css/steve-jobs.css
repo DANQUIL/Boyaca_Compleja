@@ -378,20 +378,20 @@
   
   /* Hecho por Charly */
   
-  .derecha{
+  #derecha{
 	  text-align: right;
+	  font-size: 11px;
   }
   
   #arriba{
-	  text-align: right;
-	  margin-top: -19px;
+	  margin-top: -20px;
 	  font-size: 11px;
   }
   
   .parrafo{
 	  font-size: 11px;
 	  font-family: "Stempel-Garamond-W01-Roman";
-	  margin-top: 197px;
+	  margin-top: 170px;
 	  line-height: 2px !important;
   }
   
@@ -406,6 +406,12 @@
   .hparrafo{
 	  font-size: 11px;
 	  margin-top: -2px;
+  }
+
+  #harriba{
+	font-size: 20px;
+	float: right;
+	margin-top: -35px;
   }
   
   .pasection{
@@ -430,6 +436,11 @@
 
   .sectionp{
 	  margin-top: 38px
+  }
+
+  span {
+	  padding: none;
+	  margin: none;
   }
   
   p.derecha{
