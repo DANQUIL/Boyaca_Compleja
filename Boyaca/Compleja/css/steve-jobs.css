@@ -297,17 +297,17 @@
   
   .sj-book .page-number{
 	  color:#999;
-	  width:100%;
+	  width:84%;
 	  bottom:25px;
 	  position:absolute;
 	  display:block;
-	  text-align: center;
+	  text-align: end;
 	  line-height:30px;
 	  font-size:11px;
   }
   
   .sj-book .table-contents{
-	  font-size:16px;
+	  font-size:15px;
 	  width:300px;
 	  margin:80px auto;
 	  color:#ccc;
@@ -319,18 +319,18 @@
   }
   
   .sj-book .table-contents span{
-	  float:right;
+	  float:inline-start;
 	  padding-right: 10px;
   
   }
   
   .sj-book .table-contents a{
 	  float:left;
-	  width:100%;
+	  width:182%;
 	  clear:both;
 	  text-decoration:none;
 	  color:#333;
-	  margin:2px 0;
+	  margin:0px 0;
 	  padding:0 10px;
   }
   
@@ -657,3 +657,59 @@
 	margin-top: -20px;
 }
 
+#compi{
+	margin-top: -11px;
+}
+
+
+/* Page 15 */
+
+#instrumento{
+	text-align: right;
+	margin-top: 47px;
+}
+
+#julio{
+	text-align: right;
+	font-size: 13px;
+}
+
+.colombia{
+	font-size: 10px;
+	text-align: right;
+	margin-top: -22px;
+}
+
+/* Page 17 */
+
+.contenido{
+	text-align: end;
+}
+
+/* page 20 */
+
+#montañas{
+	width: 109%;
+	height: 0%;
+	margin-top: -70px;
+	margin-left: -39px;
+}
+
+/* Page 25 */
+
+#salidagrafica{
+	width: 97%;
+	height: -20%;
+	margin-top: -67px;
+	margin-left: -11px
+}
+
+/* Page 38 */
+
+#montañitas{
+	/* width: 100%;  seria mejor asi pero se corta la imagen a la derecha*/
+	width: 109%;
+	height: 0%;
+	margin-top: -70px;
+	margin-left: -40px;
+}
