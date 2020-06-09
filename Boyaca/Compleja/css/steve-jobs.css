@@ -434,14 +434,19 @@
   
   p.derecha{
 	  font-size: 11px;
+	  text-align: justify; 
+	  margin-left: 50px!important;
   }
 
   p.izquierda{
 	font-size: 11px;
+	text-align: justify; 
+	margin-right: 90px!important;
 }
 
   p.center{
-	font-size: 11px;
+   text-align: justify; 
+   font-size: 11px;"
 }
   
   #pderecha{
