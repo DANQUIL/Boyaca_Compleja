@@ -163,11 +163,11 @@
 	  box-shadow:0 0 20px #999;
   }
   
-  .sj-book .p1,
-  .sj-book .p2,
-  .sj-book .p3, 
-  .sj-book .p111, 
-  .sj-book .p112{
+  .sj-book .p1, /* Portada */
+  .sj-book .p2, /* Sigueportada */
+  .sj-book .p3, /* Sigueportada */
+  .sj-book .p511, /* Ante Contraportada */
+  .sj-book .p512{ /*Total de páginas, Contraportada*/
 	  background-color:white;
 	  background-image:url(../pics/completa.png) !important;
   }
@@ -236,12 +236,12 @@
 	  background-position:-1920px 0 !important;
   }
   
-  .sj-book .p111{
-	  background-position:-960px 0 !important;
+  .sj-book .p511{
+	  background-position:-960px 0 !important; /* Ante Contraportada, un número antes de total de páginas */
   }
   
-  .sj-book .p112{
-	  background-position:-1440px 0 !important;
+  .sj-book .p512{
+	  background-position:-1440px 0 !important; /* Contraportada, total de páginas */
   }
   
   .sj-book .hard{
@@ -463,7 +463,7 @@
 
   p.center{
    text-align: justify; 
-   font-size: 11px;"
+   font-size: 11px;
 }
   
   #pderecha{
