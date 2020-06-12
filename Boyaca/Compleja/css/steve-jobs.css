@@ -443,11 +443,14 @@
 	  margin: none;
   }
   
-  #image {
-	  display: block;
-	  margin: auto;
-	  padding: auto;
-  }
+  
+/* Estilos Vanesa */
+
+	#image {
+		display: block;
+		margin: auto;
+		padding: auto;
+	}
 
   p.derecha{
 	  font-size: 11px;
@@ -465,7 +468,18 @@
    text-align: justify; 
    font-size: 11px;
 }
-  
+  #titulos{
+	  color: #fff;
+	  -webkit-text-stroke: 1px rgb(19, 71, 62);
+	  font-family: impact;
+	  font-size: 35px;
+	}
+
+  #textocolor {
+	color: rgb(19, 71, 62);
+  }
+/* --- */  
+
   #pderecha{
 	  margin: -25px  0;
   }
