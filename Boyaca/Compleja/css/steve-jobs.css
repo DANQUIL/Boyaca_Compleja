@@ -713,3 +713,72 @@
 	margin-top: -70px;
 	margin-left: -40px;
 }
+
+/* Capitulo 8 */
+
+/* Page 400 */
+
+.titulo{
+	text-align: center;
+	font-weight: bold;
+}
+
+.alegrias{
+	text-align: center;
+	margin-top: -29px;
+	font-size: 11px;
+}
+
+.tierra{
+	font-size: 11px;
+	text-align: start;
+	margin-top: -21px;
+}
+
+#velosa{
+	font-size: 11px;
+	text-align: start;
+	font-style: italic;
+	margin-top: -20px;
+}
+
+.lugar{
+	margin-top: -34px;
+}
+
+.vida{
+	margin-top: -16px;
+}
+
+/* Page 401 */
+
+.fonsi{
+	font-size: 11px;
+	color: gray;
+}
+
+.años{
+	margin-top: -19px;
+}
+
+/* Page 402 */
+
+#fonsia{
+	text-align: end;
+}
+
+#casitas{
+	width: 82%;
+	height: 0%;
+	margin-left: 33px;
+}
+
+.belen{
+	margin-top: -10px;
+}
+
+/* Page 403 */
+
+#fon{
+	text-align: left;
+}
