@@ -796,3 +796,154 @@
 #fon{
 	text-align: left;
 }
+
+/* Page 344 */
+
+#cuento{
+	margin-top: -23px;
+	font-size: 11px;
+	color: rgb(19, 71, 62);
+	text-align: end;
+}
+
+#color{
+	color: rgb(19, 71, 62);
+}
+
+.cantos{
+	text-align: center;
+	color: rgb(19, 71, 62);
+}
+
+#jessica{
+	text-align: center;
+}
+
+#colegios{
+	text-align: center;
+	margin-top: -20px;
+}
+
+#tunja{
+	text-align: center;
+	margin-top: -24px;
+
+}
+
+#espacio{
+	margin-top: 48px;
+}
+
+/* page 431 */
+
+.vivir{
+	text-align: center;
+	font-size: 23px !important;
+	color: rgb(19, 71, 62);
+
+}
+
+/* page 357 */
+
+#norte{
+	margin-left: 63px;
+	margin-top: 0px;
+}
+
+/* page 382 */
+
+#rosa{
+	margin-left: 63px;
+	margin-top: 0px;
+	text-align: center;
+}
+
+
+/* Capitulo 7 */
+
+#capitulo7{
+	width: 110%;
+	height: 584px;
+	margin-top: -71px;
+	margin-left: -41px;
+}
+
+
+#Hola{
+	margin-top: 26px;
+}
+
+#holis{
+	margin-top:-32px
+}
+
+#colibrí{
+	margin-left: 63px;
+}
+.colibrí{
+	margin-left: 63px;
+}
+
+#region{
+	margin-top: -42px;
+
+}
+
+#donjulio{
+
+	text-align: center;
+    margin-top: -31px;
+
+}
+
+#donrosa{
+	/* margin-left: 63px; */
+	margin-top: 3px;
+	text-align: center;
+}
+
+/* Page 173 lady */
+
+#salto{
+	margin-top: 0px;
+}
+#linea{
+	margin-top: -19px;
+
+ }
+ 
+
+.años{
+	margin-top: -19px;
+}
+
+#gris{
+	text-align: justify; 
+	font-size: 10px;
+	color:#7F8C8D;
+}
+
+/* Capitulo 6 */
+
+#general{
+	text-align: center;
+	margin-top: -34px;
+	color: rgb(19, 71, 62);
+	font-style: italic;
+}
+
+#nose{
+	margin-top: -26px;
+	text-align: center;
+	font-size: 11px;
+}
+
+.intro{
+	margin-left: 28px;
+}
+
+
+#intro{
+	margin-left: 80px;
+	margin-top: 0px;
+}
