@@ -19,12 +19,12 @@ function updateDepth(book, newPage) {
 		depthWidth = 16*Math.min(1, (pages-page)*2/pages);
 
 	if (newPage<pages-3)
-		$('.sj-book .p511 .depth').css({ // Ante Contraportada, un número antes de total de páginas
+		$('.sj-book .p789 .depth').css({ // Ante Contraportada, un número antes de total de páginas
 			width: depthWidth,
 			right: 20 - depthWidth
 		});
 	else
-		$('.sj-book .p511 .depth').css({width: 0}); // Ante Contraportada, un número antes de total de páginas
+		$('.sj-book .p789 .depth').css({width: 0}); // Ante Contraportada, un número antes de total de páginas
 
 }
 
