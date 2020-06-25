@@ -166,8 +166,8 @@
   .sj-book .p1, /* Portada */
   .sj-book .p2, /* Sigueportada */
   .sj-book .p3, /* Sigueportada */
-  .sj-book .p511, /* Ante Contraportada */
-  .sj-book .p512{ /*Total de páginas, Contraportada*/
+  .sj-book .p811, /* Ante Contraportada */
+  .sj-book .p812{ /*Total de páginas, Contraportada*/
 	  background-color:white;
 	  background-image:url(../pics/completa.png) !important;
   }
@@ -236,11 +236,11 @@
 	  background-position:-1920px 0 !important;
   }
   
-  .sj-book .p511{
+  .sj-book .p811{
 	  background-position:-960px 0 !important; /* Ante Contraportada, un número antes de total de páginas */
   }
   
-  .sj-book .p512{
+  .sj-book .p812{
 	  background-position:-1440px 0 !important; /* Contraportada, total de páginas */
   }
   
